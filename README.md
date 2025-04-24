@@ -47,7 +47,7 @@ What I’m looking for:
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=2sipping0&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2sipping&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2sipping0&layout=compact&theme=tokyonight)
 
 ---
 
