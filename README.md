@@ -21,10 +21,10 @@ I'm currently open to **remote or hybrid mid-level roles** as a:
 - 🧪 Smart Contract Auditor (Solidity, Foundry, Rust)
 
 What I’m looking for:
-- 🛠️ Challenging projects with modern stacks
-- 🌍 Collaborative, remote-friendly teams
-- 📈 Opportunities to grow as a developer and contributor
-  feel free to reach out via [email](mailto:oshodie123@gmail.com) or [LinkedIn](https://linkedin.com/in/2sipping)!
+- 🛠️ Challenging projects with modern stacks.
+- 🌍 Collaborative, remote-friendly team.
+- 📈 Opportunities to grow as a developer and contributor, feel free to reach out via [email](mailto:oshodie123@gmail.com) or [LinkedIn](https://linkedin.com/in/2sipping)!
+- Check out my resume [here](https://drive.google.com/file/d/1FsifJv6VRnkZneDiXdgeAoxpwaM50LaK/view?usp=sharing).
 
 
 
